@@ -7,4 +7,5 @@ cufflinks
 plotly
 catboost
 xgboost
+dill
 -e .
